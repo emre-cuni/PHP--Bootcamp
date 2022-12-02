@@ -1,6 +1,6 @@
 CRM Bitirme Ödevi
 
-CRM sistemi 6 temel işlemi yapabilmektedir. 
+CRM sistemi 5 temel işlemi yapabilmektedir. 
 
 - Bunlar müşteri kaydetme, silme, var olan müşterinin bilgilerini güncelleme,kayıtlı müşteriler arasında arama yapma ve var olan müşterileri csv dosyasına aktarmadır.
 
